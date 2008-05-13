@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/stephen/Projects/subversion/working/nexus/trunk/documentation"
+   sodipodi:docname="nexus_schematic.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3385">
+      <stop
+         style="stop-color:#800000;stop-opacity:1;"
+         offset="0"
+         id="stop3387" />
+      <stop
+         style="stop-color:#800000;stop-opacity:0;"
+         offset="1"
+         id="stop3389" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3368">
+      <stop
+         style="stop-color:#008000;stop-opacity:1;"
+         offset="0"
+         id="stop3370" />
+      <stop
+         style="stop-color:#008000;stop-opacity:0;"
+         offset="1"
+         id="stop3372" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3360">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop3362" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0;"
+         offset="1"
+         id="stop3364" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3360"
+       id="linearGradient3366"
+       x1="407.09146"
+       y1="455.36203"
+       x2="408.10162"
+       y2="372.52951"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3368"
+       id="linearGradient3374"
+       x1="384.86813"
+       y1="295.75793"
+       x2="377.79706"
+       y2="122.01169"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3385"
+       id="linearGradient3391"
+       x1="409.11179"
+       y1="149.28581"
+       x2="413.1524"
+       y2="44.229942"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="430.07835"
+     inkscape:cy="674.25528"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1280"
+     inkscape:window-height="976"
+     inkscape:window-x="0"
+     inkscape:window-y="22" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="rect3340"
+       width="729.33014"
+       height="687.91388"
+       x="10.101525"
+       y="54.331467" />
+    <rect
+       style="fill:url(#linearGradient3366);fill-opacity:1.0;stroke:#000000;stroke-opacity:1"
+       id="rect3344"
+       width="651.5484"
+       height="243.44676"
+       x="51.51778"
+       y="386.67166" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="254.55846"
+       y="33.118263"
+       id="text2160"><tspan
+         sodipodi:role="line"
+         id="tspan2162"
+         x="254.55846"
+         y="33.118263">Nexus Engine (Block Diagram)</tspan></text>
+    <rect
+       style="fill:url(#linearGradient3374);fill-opacity:1.0;stroke:#000000;stroke-opacity:1"
+       id="rect3342"
+       width="652.55853"
+       height="204.05081"
+       x="51.51778"
+       y="178.58023" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="75.761444"
+       y="478.59552"
+       id="text3222"><tspan
+         sodipodi:role="line"
+         id="tspan3224"
+         x="75.761444"
+         y="478.59552">Asset Manager</tspan><tspan
+         sodipodi:role="line"
+         x="75.761444"
+         y="498.59552"
+         id="tspan3228" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="237.38582"
+       y="478.59552"
+       id="text3232"><tspan
+         sodipodi:role="line"
+         x="237.38582"
+         y="478.59552"
+         id="tspan3236">Memory Manager</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="131.53445"
+       y="528.09296"
+       id="text3240"><tspan
+         sodipodi:role="line"
+         id="tspan3242"
+         x="131.53445"
+         y="528.09296">Textures</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="299.46387"
+       y="528.30389"
+       id="text3244"><tspan
+         sodipodi:role="line"
+         id="tspan3246"
+         x="299.46387"
+         y="528.30389">Geometry</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="44.446705"
+       y="528.58514"
+       id="text3248"><tspan
+         sodipodi:role="line"
+         id="tspan3250"
+         x="44.446705"
+         y="528.58514">Shaders</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="222.58315"
+       y="528.58514"
+       id="text3252"><tspan
+         sodipodi:role="line"
+         id="tspan3254"
+         x="222.58315"
+         y="528.58514">Sounds</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="129.29951"
+       y="308.88992"
+       id="text3256"><tspan
+         sodipodi:role="line"
+         id="tspan3258"
+         x="129.29951"
+         y="308.88992">Scene Graph</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="303.04581"
+       y="306.86963"
+       id="text3260"><tspan
+         sodipodi:role="line"
+         id="tspan3262"
+         x="303.04581"
+         y="306.86963">Animation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="424.26407"
+       y="308.88992"
+       id="text3264"><tspan
+         sodipodi:role="line"
+         id="tspan3266"
+         x="424.26407"
+         y="308.88992">Particle Systems</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="784.88855"
+       y="388.69196"
+       id="text3268"><tspan
+         sodipodi:role="line"
+         id="tspan3270"
+         x="784.88855"
+         y="388.69196">Vertex Programs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="779.83777"
+       y="355.3569"
+       id="text3272"><tspan
+         sodipodi:role="line"
+         id="tspan3274"
+         x="779.83777"
+         y="355.3569">Fragment Programs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="592.95953"
+       y="223.02695"
+       id="text3276"><tspan
+         sodipodi:role="line"
+         id="tspan3278"
+         x="592.95953"
+         y="223.02695">Timing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="799.03064"
+       y="315.96103"
+       id="text3280"><tspan
+         sodipodi:role="line"
+         id="tspan3282"
+         x="799.03064"
+         y="315.96103">Post-Processing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="312.13708"
+       y="275.55493"
+       id="text3284"><tspan
+         sodipodi:role="line"
+         id="tspan3286"
+         x="312.13708"
+         y="275.55493">Physics</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="836.40637"
+       y="283.63605"
+       id="text3288"><tspan
+         sodipodi:role="line"
+         id="tspan3290"
+         x="836.40637"
+         y="283.63605">Terrain</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="518.20825"
+       y="477.58539"
+       id="text3310"><tspan
+         sodipodi:role="line"
+         id="tspan3312"
+         x="518.20825"
+         y="477.58539">Hardware Abstraction</tspan></text>
+    <rect
+       style="fill:url(#linearGradient3391);fill-opacity:1.0;stroke:#000000;stroke-opacity:1"
+       id="rect3338"
+       width="652.55853"
+       height="73.741135"
+       x="52.527931"
+       y="100.79848" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="310.11685"
+       y="145.24521"
+       id="text3314"><tspan
+         sodipodi:role="line"
+         id="tspan3316"
+         x="310.11685"
+         y="145.24521">Game Logic</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="492.95447"
+       y="544.25543"
+       id="text3318"><tspan
+         sodipodi:role="line"
+         id="tspan3320"
+         x="492.95447"
+         y="544.25543">OpenGL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="572.75653"
+       y="543.2453"
+       id="text3322"><tspan
+         sodipodi:role="line"
+         id="tspan3324"
+         x="572.75653"
+         y="543.2453">OpenAL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="652.55853"
+       y="542.23511"
+       id="text3326"><tspan
+         sodipodi:role="line"
+         id="tspan3328"
+         x="652.55853"
+         y="542.23511">Kernel API</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="592.95953"
+       y="509.91022"
+       id="text3330"><tspan
+         sodipodi:role="line"
+         id="tspan3332"
+         x="592.95953"
+         y="509.91022">SDL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="405.07117"
+       y="528.09296"
+       id="text3334"><tspan
+         sodipodi:role="line"
+         id="tspan3336"
+         x="405.07117"
+         y="528.09296">Fonts</tspan></text>
+  </g>
+</svg>
